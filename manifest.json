@@ -1,0 +1,11 @@
+{
+    "Name": "Russell in Stardew Valley",
+    "Author": "peachblossommm",
+    "Version": "1.0.0",
+    "Description": "Adds Russell to Stardew Valley.",
+    "UniqueID": "peachblossommm.Russell",
+    "UpdateKeys": ["Nexus: ???"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

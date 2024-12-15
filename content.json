@@ -1,0 +1,11 @@
+{
+    "Format": "2.0.6",
+    "Changes": [
+
+        {"Action": "EditImage",
+            "Target": "Animals/dog3",
+            "FromFile": "assets/Animals/RussellSprites.png"
+        }
+    ]
+}
+ 
