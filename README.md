@@ -1,13 +1,5 @@
 # Russell-in-Stardew-Valley
 
-This mod replaces the black and white dog with a red bandana. Any other mod that also replaces this dog will cause complications.
+I made this mod to get started with modifying Stardew Valley and games as a whole. This utilizes Stardew Modding API (SMAPI: https://smapi.io/) and Content Patcher (https://www.nexusmods.com/stardewvalley/mods/1915) to change the game's assets without replacing its files. 
 
-Requirements:
-- SMAPI
-- Content Patcher version 2.0.6 and above
-
-If replacing your first pet:
-- After Stardew Valley opens, enter "debug cmenu" onto the SMAPI module to change your pet. 
-- Russell does not have his own icon (due to the original dog being a 1.6 update, and its precise icon location from Stardew Valley's files is unknown).
-- Choose the black and white dog.
-- Changes will save when your game is saved.
+Spritesheet for this mod comes from: https://www.nexusmods.com/stardewvalley/mods/20040. I editted the sprites to reflect my dog's characteristics.
