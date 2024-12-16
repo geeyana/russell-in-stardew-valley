@@ -1,4 +1,4 @@
-# Russell-in-Stardew-Valley
+# Russell in Stardew Valley
 
 I made this mod to get started with modifying Stardew Valley and games as a whole. This utilizes Stardew Modding API ([SMAPI](https://smapi.io/)) and [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) to change the game's assets without replacing its files. 
 
