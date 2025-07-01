@@ -1,5 +1,5 @@
 # 🐶 Russell in Stardew Valley
-> Contributors: Gianna Nicomedes
+> **Contributors:** Gianna Nicomedes
 
 ---
 
