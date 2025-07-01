@@ -17,7 +17,7 @@ Spritesheet for this comes from [another dog mod](https://www.nexusmods.com/star
 
 ### The model:
 
-![PXL_20240703_012224127 (1)](https://github.com/user-attachments/assets/5e960f04-271f-4e81-a13d-001172257b01)
+![PXL_20240703_012224127 (1)](https://github.com/user-attachments/assets/26de5f8d-6ec0-4975-8e86-a6d2383b131c)
 
 ### The sprites (notably smaller!):
 
