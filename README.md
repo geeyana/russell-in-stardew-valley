@@ -1,4 +1,7 @@
 # 🐶 Russell in Stardew Valley
+> Contributors: Gianna Nicomedes
+
+---
 
 ## 📋 Overview
 
@@ -16,7 +19,7 @@ Spritesheet for this comes from [another dog mod](https://www.nexusmods.com/star
 
 ![PXL_20240703_012224127 (1)](https://github.com/user-attachments/assets/5e960f04-271f-4e81-a13d-001172257b01)
 
-### The sprites (much smaller!):
+### The sprites (notably smaller!):
 
 ![RussellSprites](https://github.com/user-attachments/assets/40d30d82-1791-4150-80b6-333dbd5ab7c6)
 
